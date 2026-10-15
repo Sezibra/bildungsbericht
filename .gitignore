@@ -1,0 +1,27 @@
+# Texte der Berichte und alle Zwischenstände mit Text werden nicht veröffentlicht
+data/raw/
+data/interim/
+data/external/
+data/processed/korpus_absaetze.csv
+data/processed/abschnitte/
+data/processed/segmente_zentrale_herausforderungen.csv
+data/processed/stm_k40_typische_absaetze.csv
+
+# Modelle und R-Objekte (enthalten Dokumentmatrizen)
+*.rds
+*.RData
+.Rhistory
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter und Editor
+.ipynb_checkpoints/
+.vscode/
+
+# Office-Sperrdateien
+~$*

@@ -1,0 +1,33 @@
+"thema","label","kurzname","gruppe","saetze","handlungsbedarf","quote","berichte","berichte_kern","wiederkehrend","berichte_streng","handlungsbedarf_streng","wiederkehrend_streng","wiederkehrend_kern","robust"
+5,"T5 Steuerung des Bildungssystems","Steuerung des Bildungssystems","Querschnittsthema",1253,251,20,11,3,TRUE,10,141,TRUE,FALSE,TRUE
+33,"T33 Programme und Qualitätssicherung","Programme und Qualitätssicherung","Querschnittsthema",1305,146,11.2,9,5,TRUE,11,57,TRUE,FALSE,TRUE
+12,"T12 Demografischer und wirtschaftlicher Wandel","Demografischer und wirtschaftlicher Wandel","Querschnittsthema",1220,140,11.5,9,9,TRUE,9,57,TRUE,TRUE,TRUE
+3,"T3 Frühe Bildung allgemein","Frühe Bildung allgemein","Bildungsbereich",665,56,8.4,8,7,TRUE,8,27,TRUE,TRUE,TRUE
+18,"T18 Ausbildungsmarkt und Übergangssystem","Ausbildungsmarkt und Übergangssystem","Bildungsbereich",1575,98,6.2,7,6,TRUE,7,45,TRUE,TRUE,TRUE
+30,"T30 Kindertagesbetreuung","Kindertagesbetreuung","Bildungsbereich",2328,150,6.4,6,9,TRUE,5,47,FALSE,TRUE,FALSE
+11,"T11 Pädagogisches Personal","Pädagogisches Personal","Querschnittsthema",1830,134,7.3,6,6,TRUE,8,54,TRUE,TRUE,TRUE
+38,"T38 Soziale Herkunft und Ungleichheit","Soziale Herkunft und Ungleichheit","Querschnittsthema",1590,78,4.9,6,5,TRUE,7,35,TRUE,FALSE,TRUE
+29,"T29 Lehrkräfte","Lehrkräfte","Bildungsbereich",882,56,6.3,6,5,TRUE,6,25,TRUE,FALSE,TRUE
+13,"T13 Bildungswege, Durchlässigkeit, Abbruch","Bildungswege, Durchlässigkeit, Abbruch","Querschnittsthema",712,44,6.2,5,3,FALSE,3,17,FALSE,FALSE,FALSE
+20,"T20 Digitalisierung","Digitalisierung","Querschnittsthema",1504,133,8.8,4,4,FALSE,5,57,FALSE,FALSE,FALSE
+6,"T6 Weiterbildungsbeteiligung und Anbieter","Weiterbildungsbeteiligung und Anbieter","Bildungsbereich",1918,95,5,4,5,FALSE,6,35,TRUE,FALSE,FALSE
+31,"T31 Studium und Bologna-Reform","Studium und Bologna-Reform","Bildungsbereich",1168,61,5.2,4,4,FALSE,3,24,FALSE,FALSE,FALSE
+17,"T17 Hochschulen und Studienangebot","Hochschulen und Studienangebot","Bildungsbereich",1257,56,4.5,4,3,FALSE,1,12,FALSE,FALSE,FALSE
+36,"T36 Regionale Unterschiede, Ost und West","Regionale Unterschiede, Ost und West","Querschnittsthema",926,43,4.6,4,2,FALSE,4,18,FALSE,FALSE,FALSE
+35,"T35 Schulabschlüsse","Schulabschlüsse","Bildungsbereich",1358,33,2.4,3,1,FALSE,2,16,FALSE,FALSE,FALSE
+1,"T1 Erträge und kulturelle Bildung","Erträge und kulturelle Bildung","Querschnittsthema",1385,60,4.3,2,1,FALSE,1,13,FALSE,FALSE,FALSE
+7,"T7 Schularten im Sekundarbereich","Schularten im Sekundarbereich","Bildungsbereich",1603,60,3.7,2,4,FALSE,3,33,FALSE,FALSE,FALSE
+25,"T25 Zuwanderung und Integration","Zuwanderung und Integration","Querschnittsthema",823,46,5.6,2,3,FALSE,4,22,FALSE,FALSE,FALSE
+27,"T27 Ganztag","Ganztag","Bildungsbereich",1143,46,4,2,6,FALSE,4,24,FALSE,TRUE,FALSE
+34,"T34 Sonderpädagogische Förderung und Inklusion","Sonderpädagogische Förderung und Inklusion","Bildungsbereich",678,40,5.9,2,3,FALSE,4,13,FALSE,FALSE,FALSE
+21,"T21 Corona-Pandemie","Corona-Pandemie","Querschnittsthema",564,30,5.3,2,1,FALSE,3,17,FALSE,FALSE,FALSE
+4,"T4 Ausbildungsberufe und Berufseinstieg","Ausbildungsberufe und Berufseinstieg","Bildungsbereich",1049,39,3.7,1,4,FALSE,2,9,FALSE,FALSE,FALSE
+23,"T23 Bildungsstand der Bevölkerung","Bildungsstand der Bevölkerung","Querschnittsthema",2123,39,1.8,1,0,FALSE,1,15,FALSE,FALSE,FALSE
+8,"T8 Arbeitsmarkt und Erwerbstätigkeit","Arbeitsmarkt und Erwerbstätigkeit","Querschnittsthema",1069,31,2.9,1,2,FALSE,1,7,FALSE,FALSE,FALSE
+14,"T14 Familie und soziale Risikolagen","Familie und soziale Risikolagen","Querschnittsthema",1848,51,2.8,0,1,FALSE,2,22,FALSE,FALSE,FALSE
+39,"T39 Studienberechtigung und Hochschulabschluss","Studienberechtigung und Hochschulabschluss","Bildungsbereich",1983,37,1.9,0,1,FALSE,0,3,FALSE,FALSE,FALSE
+9,"T9 Bildungsausgaben","Bildungsausgaben","Querschnittsthema",1455,36,2.5,0,0,FALSE,1,14,FALSE,FALSE,FALSE
+16,"T16 Internationaler Vergleich","Internationaler Vergleich","Querschnittsthema",1204,35,2.9,0,0,FALSE,3,13,FALSE,FALSE,FALSE
+10,"T10 Betriebe in Aus- und Weiterbildung","Betriebe in Aus- und Weiterbildung","Bildungsbereich",763,28,3.7,0,3,FALSE,0,6,FALSE,FALSE,FALSE
+32,"T32 Länderunterschiede","Länderunterschiede","Querschnittsthema",1074,24,2.2,0,1,FALSE,1,11,FALSE,FALSE,FALSE
+26,"T26 Junge Erwachsene und Engagement","Junge Erwachsene und Engagement","Querschnittsthema",996,17,1.7,0,1,FALSE,1,9,FALSE,FALSE,FALSE
