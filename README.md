@@ -1,34 +1,34 @@
 # Bildung in Deutschland 2006 bis 2026: Was 20 Jahre Bildungsbericht sagen
 
-Dr. Can Sezgin
-
-**20 Jahre Bildungsbericht in fünf Befunden:** Der Bericht beschreibt fast nur, seine Themen wandern von Strukturen zu Lebenslagen, fünf Herausforderungen kehren seit 2006 wieder, die häufigste davon hat keine einzige Tabelle, und rund die Hälfte der Tabellen ist in jedem Bericht neu.
+**20 Jahre Bildungsbericht in fünf Befunden:** Der Bericht ist überwiegend beschreibend angelegt. Seine Themen verschieben sich von Strukturen zu Lebenslagen. Fünf Herausforderungen benennt er seit 2006 wiederholt. Zur häufigsten, der Steuerung des Bildungssystems, gibt es bisher keine Tabelle mit passendem Titel. Von Bericht zu Bericht wird rund die Hälfte der Tabellen neu aufgenommen.
 
 <p align="center">
-  <img src="figures/social/folie_2.png" width="49%" alt="Befund 1: Handlungsbedarf steht vor allem außerhalb der Kernkapitel">
+  <img src="figures/social/folie_2.png" width="49%" alt="Befund 1: Der Bericht beschreibt vor allem, Handlungsbedarf steht meist außerhalb der Fachkapitel">
   <img src="figures/social/folie_3.png" width="49%" alt="Befund 2: Die Themen verschieben sich von Strukturen zu Lebenslagen">
 </p>
 <p align="center">
-  <img src="figures/social/folie_4.png" width="49%" alt="Befund 3: Fünf Herausforderungen kehren über 20 Jahre wieder">
-  <img src="figures/social/folie_5.png" width="49%" alt="Befund 4: Die häufigste Herausforderung im Text hat keine einzige Tabelle">
+  <img src="figures/social/folie_4.png" width="49%" alt="Befund 3: Fünf Herausforderungen benennt der Bericht über 20 Jahre wiederholt">
+  <img src="figures/social/folie_5.png" width="49%" alt="Befund 4: Zur häufigsten Herausforderung im Text gibt es bisher keine passende Tabelle">
 </p>
 <p align="center">
-  <img src="figures/social/folie_6.png" width="49%" alt="Befund 5: Rund die Hälfte der Tabellen ist in jedem Bericht neu">
-  <img src="figures/social/folie_7.png" width="49%" alt="Drei Anregungen für den nächsten Bildungsbericht">
+  <img src="figures/social/folie_6.png" width="49%" alt="Befund 5: Rund die Hälfte der Tabellen wird in jedem Bericht neu aufgenommen">
+  <img src="figures/social/folie_7.png" width="49%" alt="Drei Anregungen für künftige Bildungsberichte">
 </p>
 
 <sub>Alle acht Folien als PDF: [figures/social/bildungsbericht_karussell.pdf](figures/social/bildungsbericht_karussell.pdf)</sub>
 
-Diese Analyse wertet die elf nationalen Bildungsberichte "Bildung in Deutschland" (2006 bis 2026) aus: den Fließtext und den Bestand an Excel-Tabellen. Sie fragt, welche Themen der Bericht über 20 Jahre setzt, wie stark er beschreibt, bewertet oder Handlungsbedarf benennt, zu welchen Themen er wiederholt Handlungsbedarf sieht und ob seine Tabellen diese Themen messen. Im Mittelpunkt stehen Inhalte, nicht Formulierungen oder Stil.
+Die nationalen Bildungsberichte "Bildung in Deutschland" haben großen Einfluss auf die Bildungspolitik und greifen seit 2006 in gleichbleibender Struktur die Themen des Bildungswesens auf. Damit bilden sie einen sehr gut geeigneten Datensatz, um Methoden der Computational Social Science anzuwenden. Dieses Projekt ist in diesem Sinne entstanden: als methodische Übung an einem Material, dessen inhaltliche Einordnung bei den Fachleuten der Bildungsforschung liegt.
+
+Die Analyse wertet die elf Berichte von 2006 bis 2026 aus, den Fließtext und den Bestand an Excel-Tabellen. Sie fragt, welche Themen der Bericht über 20 Jahre setzt, wie er beschreibt, bewertet oder Handlungsbedarf benennt, zu welchen Themen er wiederholt Handlungsbedarf sieht und ob es dazu passende Tabellen gibt. Im Mittelpunkt stehen Inhalte, nicht Formulierungen oder Stil. Die Ergebnisse sind als Angebot zur Diskussion gedacht, nicht als Bewertung der Berichte.
 
 ## Auf einen Blick
 
-- **Der Bericht beschreibt.** Rund 89 Prozent der Sätze beschreiben, je rund 5 Prozent bewerten oder benennen Handlungsbedarf. Daran ändert sich in 20 Jahren wenig.
-- **Handlungsbedarf steht vor allem im Überblick, in der Einleitung und im Schwerpunktkapitel.** In den Kernkapiteln¹ liegt sein Anteil stabil bei 3,5 bis 5,1 Prozent, im Überblick zeitweise bei 12 bis 13 Prozent.
+- **Der Bericht ist überwiegend beschreibend angelegt.** Das entspricht seinem Auftrag als indikatorengestützter Bericht. Rund 89 Prozent der Sätze beschreiben, je rund 5 Prozent bewerten oder benennen Handlungsbedarf. Daran ändert sich in 20 Jahren wenig.
+- **Handlungsbedarf benennt der Bericht vor allem im Überblick, in der Einleitung und im Schwerpunktkapitel.** In den Kernkapiteln¹ liegt sein Anteil stabil bei 3,5 bis 5,1 Prozent, im Überblick zeitweise bei 12 bis 13 Prozent.
 - **Die Themen verschieben sich von Strukturen zu Lebenslagen.** Zuwanderung, Familie und soziale Risikolagen, frühe Bildung, Digitalisierung sowie Programme und Qualitätssicherung gewinnen an Gewicht. Internationaler Vergleich, demografischer Wandel, Schularten und Ausbildungsberufe verlieren.
-- **Fünf Herausforderungen kehren belastbar wieder:** Steuerung des Bildungssystems, demografischer und wirtschaftlicher Wandel, pädagogisches Personal, soziale Herkunft und Ungleichheit sowie Lehrkräfte.
-- **Text und Tabellen laufen nicht zusammen.** Zur Steuerung schreibt der Bericht 251 Sätze mit Handlungsbedarf, aber keine der 4.397 Tabellen trägt einen passenden Titel. Zur Kindertagesbetreuung gibt es 440 Tabellen, der Handlungsbedarf im Text sinkt.
-- **Die Tabellen wechseln stark.** Von 2024 zu 2026 schreibt der Bericht 230 Tabellen fort, 290 sind neu, 241 fallen weg.
+- **Fünf Herausforderungen benennt der Bericht wiederholt, und dieser Befund hält allen Prüfungen stand:** Steuerung des Bildungssystems, demografischer und wirtschaftlicher Wandel, pädagogisches Personal, soziale Herkunft und Ungleichheit sowie Lehrkräfte.
+- **Text und Tabellen setzen unterschiedliche Schwerpunkte.** Zur Steuerung des Bildungssystems benennt der Text 251 Sätze mit Handlungsbedarf, unter den 4.397 Tabellen trägt bisher keine einen passenden Titel. Steuerung ist allerdings ein Thema, das sich schwer als Kennzahl fassen lässt. Zur Kindertagesbetreuung gibt es 440 Tabellen, während der Handlungsbedarf im Text zurückgeht.
+- **Der Tabellenbestand erneuert sich stark.** Von 2024 zu 2026 schreibt der Bericht 230 Tabellen fort, nimmt 290 neu auf und führt 241 nicht weiter.
 
 <sub>¹ Kernkapitel: die Kapitel A bis G und I, die in jedem Bericht dieselben Bildungsbereiche behandeln. Details im Abschnitt "Kapitelgruppen".</sub>
 
@@ -65,7 +65,7 @@ Die Tabellen gehen nur über ihre Nummer, ihren Titel und die Inhaltsblätter ei
 
 ### Kapitelgruppen
 
-Jeder Bericht hat einen festen und einen wechselnden Teil. Die Analyse trennt sie, weil der wechselnde Teil die Jahreswerte verzerrt: Ein Thema kann in einem Jahr stark steigen, nur weil das Schwerpunktkapitel davon handelt.
+Jeder Bericht hat einen festen und einen wechselnden Teil. Die Analyse betrachtet sie getrennt, weil der wechselnde Teil die Jahreswerte überlagert: Ein Thema kann in einem Jahr stark steigen, weil das Schwerpunktkapitel davon handelt.
 
 | Gruppe | Kapitel | Inhalt |
 |---|---|---|
@@ -108,7 +108,7 @@ Der Anteil der beschreibenden Sätze liegt in allen Berichten bei rund 87 bis 91
 
 Die Kapitelgruppen unterscheiden sich deutlich. In den Kernkapiteln bleibt der Anteil an Handlungsbedarf bei 3,5 bis 5,1 Prozent. Im Überblick erreicht er 2012 bis 2018 rund 12 bis 13 Prozent, im Schwerpunktkapitel 2010 (demografischer Wandel) 16,3 Prozent.
 
-### Frage 2, Teil 1: Welche Herausforderungen kehren wieder?
+### Frage 2, Teil 1: Welche Herausforderungen benennt der Bericht wiederholt?
 
 ![Abbildung 10](figures/abb10_handlungsbedarf_themen.png)
 
@@ -122,34 +122,36 @@ Ein Thema gilt als wiederkehrend, wenn der Bericht dazu in mindestens 6 der 11 B
 | mit Einschränkung | Kindertagesbetreuung (hängt an Modalverben wie "müssen") |
 | modellabhängig | Programme und Qualitätssicherung, Ausbildungsmarkt und Übergangssystem, frühe Bildung |
 
-- Steuerung des Bildungssystems hat mit 20 Prozent die höchste Quote: Jeder fünfte Satz zu diesem Thema benennt Handlungsbedarf, in allen 11 Berichten überdurchschnittlich. Auch im Modell ohne Signalwörter bleibt das so (17,4 Prozent). Der Handlungsbedarf steigt von 4 bis 8 Sätzen bis 2012 auf 71 Sätze 2024 und 63 Sätze 2026, steht aber fast nur in Überblick, Einleitung und Schwerpunktkapitel.
+- Steuerung des Bildungssystems hat mit 20 Prozent die höchste Quote: Jeder fünfte Satz zu diesem Thema benennt Handlungsbedarf, in allen 11 Berichten überdurchschnittlich. Auch im Modell ohne Signalwörter bleibt das so (17,4 Prozent). Der Handlungsbedarf steigt von 4 bis 8 Sätzen bis 2012 auf 71 Sätze 2024 und 63 Sätze 2026. Er steht überwiegend im Überblick, in der Einleitung und im Schwerpunktkapitel.
 - Zum demografischen Wandel benennt der Bericht 2010 noch 50 Sätze mit Handlungsbedarf, 2022 und 2024 je einen.
 - Zu Bildungsstand, Studienberechtigung, Bildungsausgaben und internationalem Vergleich benennt der Fließtext kaum Handlungsbedarf (Quote unter 3 Prozent).
 
-### Tabellenbestand: Wie stabil sind die Tabellen?
+### Tabellenbestand: Wie viele Tabellen hat der Bericht, und wie viele werden fortgeschrieben?
 
 ![Abbildung 12](figures/abb12_tabellenbestand.png)
 
-<sub>Tabellen je Bericht nach Ort der Veröffentlichung: im Buchtext, im Buchanhang oder nur im Internet.</sub>
+<sub>Tabellen je Bericht nach Form der Veröffentlichung: im Kapitel abgedruckt, im Tabellenanhang abgedruckt oder als Excel-Datei zum Bericht (Zusatz "web" in der Tabellennummer). Auf web-Tabellen verweist der Bericht im Text und unter den Abbildungen, abgedruckt sind sie nicht.</sub>
 
-- Die Zahl der Tabellen steigt von 219 (2006) auf 527 (2026). Der Buchanhang umfasst bis 2018 rund 100 bis 165 Tabellen je Bericht, ab 2020 stehen die Zusatztabellen nur noch im Internet.
+Die Abbildung dient als Bezugsgröße für die folgenden Befunde. Weil der Bestand wächst, vergleicht die Analyse Anteile statt absoluter Zahlen.
+
+- Die Zahl der Tabellen steigt von 219 (2006) auf 527 (2026). Der Tabellenanhang umfasst bis 2018 rund 100 bis 165 Tabellen je Bericht. Ab 2020 gibt es keinen gedruckten Anhang mehr, die Daten stehen seitdem als web-Tabellen bereit.
 - Das Schwerpunktkapitel H umfasst je Bericht 15 bis 87 Tabellen, die Kernkapitel 188 (2006) bis 512 (2026).
 
 ![Abbildung 13](figures/abb13_fortschreibung.png)
 
-<sub>Grundlage: die Inhaltsblätter der Excel-Dateien, die ab 2022 für jede Tabelle ihre Nummer im Vorgängerbericht nennen. Weggefallen: Tabellen des Vorgängerberichts, auf die kein Verweis zeigt.</sub>
+<sub>Grundlage: die Inhaltsblätter der Excel-Dateien, die ab 2022 für jede Tabelle ihre Nummer im Vorgängerbericht nennen. Nicht weitergeführt: Tabellen des Vorgängerberichts, auf die kein Verweis zeigt.</sub>
 
-| Übergang | fortgeschrieben | neu | ohne Angabe | weggefallen |
+| Übergang | fortgeschrieben | neu | ohne Angabe | nicht weitergeführt |
 |---|---|---|---|---|
 | 2020 zu 2022 | 154 | 166 | 61 | 248 |
 | 2022 zu 2024 | 210 | 210 | 48 | 182 |
 | 2024 zu 2026 | 230 | 290 | 7 | 241 |
 
-- Von den Tabellen mit Angabe schreibt jeder Bericht 44 bis 50 Prozent fort, der Rest ist neu.
-- Die Kapitel B (Grundinformationen) und F (Hochschule) schreiben überwiegend fort. In D (Schule), G (Weiterbildung) und I überwiegen neue Tabellen, in D 2026 rund 80 neue gegenüber rund 20 fortgeschriebenen. Kapitel H ist mit jedem Bericht neu.
+- Von den Tabellen mit Angabe schreibt jeder Bericht 44 bis 50 Prozent fort, die übrigen nimmt er neu auf. Neue Tabellen spiegeln häufig neue Fragestellungen und Datenquellen wider.
+- Die Kapitel B (Grundinformationen) und F (Hochschule) schreiben überwiegend fort. In D (Schule), G (Weiterbildung) und I überwiegen neu aufgenommene Tabellen, in D 2026 rund 80 neue gegenüber rund 20 fortgeschriebenen. Kapitel H behandelt in jedem Bericht ein neues Thema.
 - Vor 2022 nennen die Inhaltsblätter keinen Vorgänger. Für diese Berichte lässt sich die Fortschreibung nicht messen.
 
-### Frage 2, Teil 2: Messen die Tabellen, was der Text fordert?
+### Frage 2, Teil 2: Gibt es zu den Herausforderungen passende Tabellen?
 
 ![Abbildung 15](figures/abb15_text_tabellen.png)
 
@@ -171,10 +173,10 @@ Ein Thema gilt als wiederkehrend, wenn der Bericht dazu in mindestens 6 der 11 B
 
 <sub>Summen über elf Berichte, alle Kapitel. Spearman: Rangkorrelation der Anteile im Text und in den Tabellen über die elf Berichte.</sub>
 
-- Steuerung ist die häufigste Herausforderung im Text, 2024 und 2026 rund ein Viertel des gesamten Handlungsbedarfs. Keine Tabelle trägt dazu einen passenden Titel. In 11 Berichten benennt der Text dazu Handlungsbedarf ohne Tabelle.
-- Programme und Qualitätssicherung macht 2026 rund 15 Prozent des Handlungsbedarfs im Schwerpunktkapitel aus, aber nur 0,4 Prozent der Tabellen.
-- Bei Lehrkräften (0,77) und pädagogischem Personal (0,55) laufen Text und Tabellen gemeinsam. Zu Lehrkräften gibt es 2006 keine Tabelle, 2024 sind es 25.
-- Bei Kindertagesbetreuung laufen sie gegeneinander: Die Tabellen machen 2026 12,5 Prozent des Bestands aus, der Handlungsbedarf im Text sinkt.
+- Steuerung ist die häufigste Herausforderung im Text, 2024 und 2026 mit rund einem Viertel des gesamten Handlungsbedarfs. Bisher trägt keine Tabelle dazu einen passenden Titel. Das Thema beschreibt das Zusammenwirken von Akteuren und Institutionen und lässt sich nur schwer in einer einzelnen Kennzahl abbilden.
+- Programme und Qualitätssicherung macht 2026 rund 15 Prozent des Handlungsbedarfs im Schwerpunktkapitel aus und 0,4 Prozent der Tabellen.
+- Bei Lehrkräften (0,77) und pädagogischem Personal (0,55) entwickeln sich Text und Tabellen gleichläufig. Zu Lehrkräften gibt es 2006 keine Tabelle, 2024 sind es 25.
+- Bei Kindertagesbetreuung entwickeln sie sich gegenläufig: Die Tabellen machen 2026 12,5 Prozent des Bestands aus, während der Handlungsbedarf im Text zurückgeht. Das passt zum Ausbau der Kindertagesbetreuung, den die Tabellen dokumentieren.
 
 ![Abbildung 14](figures/abb14_tabellen_herausforderungen.png)
 
@@ -193,29 +195,30 @@ Ein Thema gilt als wiederkehrend, wenn der Bericht dazu in mindestens 6 der 11 B
 | Ausbildungsmarkt | E1-4web | Neuzugänge im Übergangssektor von rund 417.000 (2005) auf rund 225.000 (2021), 2025 rund 262.000 |
 | frühe Bildung | C5-10web | Einschulungen: Höchststand rund 955.000 (1996), Tiefstand rund 687.000 (2012), 2023 rund 833.000 |
 
-Für Steuerung, soziale Herkunft und Programme und Qualitätssicherung findet die Analyse keine Zeitreihe, die als Leitindikator taugt.
+Für Steuerung, soziale Herkunft und Programme und Qualitätssicherung findet die Analyse keine Zeitreihe, die sich als Leitindikator eignet.
 
 ## Grenzen und offene Punkte
 
-- **Keine Handcodierung.** Die Einordnung der Sätze beruht auf einem Wörterbuch. Eine Stichprobe von 308 Sätzen für eine Prüfung von Hand ist vorbereitet, aber nicht codiert. Die Robustheitsprüfungen zeigen, welche Befunde stabil sind, nicht ob das Wörterbuch Handlungsbedarf richtig erkennt.
+- **Keine Prüfung von Hand.** Die Einordnung der Sätze beruht auf einem Wörterbuch. Eine Stichprobe von 308 Sätzen für eine Prüfung von Hand ist vorbereitet, aber nicht codiert. Die Robustheitsprüfungen zeigen, welche Befunde stabil sind, nicht ob das Wörterbuch Handlungsbedarf richtig erkennt.
 - **Modellabhängigkeit.** 14 der 32 Themen ändern ihre Richtung zwischen den Modellen mit 30, 40 und 60 Themen. Die Ergebnisse oben nennen nur die stabilen Befunde.
 - **Selbst gesetzte Schwellen.** Die Regeln für "wiederkehrend" und für die fünf Muster sind festgelegt, nicht aus den Daten abgeleitet. Die Notebooks legen jede Schwelle offen.
-- **Zuordnung der Tabellen über den Titel.** Eine Tabelle, deren Titel kein Suchwort enthält, fehlt in der Zählung, auch wenn sie zum Thema gehört. "Keine Tabelle zur Steuerung" heißt: kein Titel mit passendem Wort.
+- **Zuordnung der Tabellen über den Titel.** Eine Tabelle, deren Titel kein Suchwort enthält, fehlt in der Zählung, auch wenn sie zum Thema gehört. "Keine Tabelle zur Steuerung" heißt deshalb nur: kein Titel mit passendem Wort. Daten zum Thema können in anderen Tabellen enthalten sein.
 - **Fortschreibung erst ab 2022 messbar.** Die Vorgängerspalte gibt es erst in den Inhaltsblättern ab 2022. 49 Zellen sind leer, sie zählen als "ohne Angabe".
 - **Leitindikatoren gerundet.** Die Werte in Abbildung 16 und in der Tabelle oben sind gerundet. Die genauen Werte stehen in `data/processed/leitindikatoren.csv`.
-- **Sprünge in der Gliederung.** Einige Rückgänge passieren als Sprung zwischen zwei Berichten, etwa Schularten 2022. Sie können auf eine geänderte Gliederung zurückgehen statt auf einen Bedeutungsverlust.
+- **Sprünge in der Gliederung.** Einige Rückgänge treten als Sprung zwischen zwei Berichten auf, etwa Schularten 2022. Sie können auf eine geänderte Gliederung zurückgehen statt auf eine geringere Bedeutung des Themas.
+- **Blick von außen.** Die Analyse kennt die Abwägungen nicht, die hinter Gliederung, Themenwahl und Tabellenauswahl der Berichte stehen. Viele Befunde haben vermutlich gute fachliche Gründe.
 
 ## Anregungen für die Berichterstattung
 
-Fünf Anregungen zur Form des Berichts, jede gestützt auf einen klaren Befund. Sie betreffen die Berichterstattung, nicht die Bildungspolitik.
+Die folgenden Anregungen verstehen sich als Angebot aus methodischer Sicht. Sie betreffen die Form der Berichterstattung, nicht die Bildungspolitik, und beruhen jeweils auf einem der Befunde oben. Ob und wie sie sich umsetzen lassen, können die Autor:innengruppe und die beteiligten Institute am besten beurteilen.
 
 | Nr. | Anregung | Befund | Vorschlag |
 |---|---|---|---|
-| 1 | Ein Register der Herausforderungen führen | Fünf Herausforderungen nennt der Bericht seit 2006 immer wieder, etwa Lehrkräfte oder soziale Herkunft. Ob sich die Lage bessert, sieht man nicht auf einen Blick. | Eine feste Übersicht in jedem Bericht: Seit wann wird die Herausforderung genannt? An welcher Kennzahl lässt sie sich ablesen? Wie hat sich diese seit dem letzten Bericht entwickelt? Fehlt eine Kennzahl, wie bei Steuerung, steht das offen dort. Das ist der größte Hebel. |
-| 2 | Dieselben Tabellen weiterführen | Rund die Hälfte der Tabellen ist in jedem Bericht neu. Von den 468 Tabellen des Berichts 2024 fehlen 241 im Bericht 2026. Lange Entwicklungen lassen sich so schwer verfolgen. | Je Kapitel ein fester Satz von Tabellen, den jeder Bericht in gleicher Form fortschreibt. Neue und gestrichene Tabellen werden kurz begründet. |
-| 3 | Herausforderungen in den Fachkapiteln aufgreifen | Handlungsbedarf benennt der Bericht vor allem im Überblick (bis zu 13,2 Prozent der Sätze) und in der Einleitung (bis zu 16,3 Prozent). In den Kapiteln zu Kita, Schule, Ausbildung, Hochschule und Weiterbildung sind es 3,5 bis 5,1 Prozent. | Was der Überblick als Herausforderung nennt, greift das zuständige Kapitel in einem kurzen Abschnitt auf, mit Befund und Kennzahl. |
-| 4 | Frühere Schwerpunkte nachverfolgen | Jeder Bericht hat ein Schwerpunktthema. Zum demografischen Wandel, Schwerpunkt 2010, stehen in jenem Bericht 50 Sätze mit Handlungsbedarf, 2022 und 2024 je einer. Zur Digitalisierung, Schwerpunkt 2020, sind es 91, danach 23, 5 und 7. | Spätere Berichte sagen kurz, was aus den Herausforderungen früherer Schwerpunkte geworden ist. |
-| 5 | Den Bericht maschinenlesbar bereitstellen | Die Tabellen gibt es als Excel-Dateien, den Text nur als PDF. Welche Tabelle eine ältere fortsetzt, steht erst ab 2022 in den Dateien, mit 49 Lücken. | Zusätzlich zum PDF eine strukturierte Fassung, etwa als XML: Text nach Kapitel und Abschnitt, mit Verweis auf die zugehörige Tabelle und deren Vorgänger. |
+| 1 | Ein Register der Herausforderungen | Fünf Herausforderungen benennt der Bericht seit 2006 wiederholt, etwa Lehrkräfte oder soziale Herkunft. Ihre Entwicklung über mehrere Berichte ist derzeit nicht an einer Stelle zusammengefasst. | Eine feste Übersicht in jedem Bericht: Seit wann wird die Herausforderung genannt? An welcher Kennzahl lässt sie sich ablesen? Wie hat sich diese seit dem letzten Bericht entwickelt? Wo keine Kennzahl vorliegt, wie bei Steuerung, kann die Übersicht das vermerken. |
+| 2 | Einen festen Kern von Tabellen fortschreiben | Rund die Hälfte der Tabellen wird in jedem Bericht neu aufgenommen. Von den 468 Tabellen des Berichts 2024 führt der Bericht 2026 241 nicht weiter. Das erleichtert neue Fragestellungen, erschwert aber Vergleiche über längere Zeiträume. | Je Kapitel ein fester Kern von Tabellen, den jeder Bericht in gleicher Form fortschreibt, ergänzt um neue Tabellen nach Bedarf. Eine kurze Übersicht der Änderungen hilft Lesenden bei der Orientierung. |
+| 3 | Herausforderungen in den Fachkapiteln aufgreifen | Handlungsbedarf benennt der Bericht überwiegend im Überblick (bis zu 13,2 Prozent der Sätze) und in der Einleitung (bis zu 16,3 Prozent). In den Kapiteln zu Kita, Schule, Ausbildung, Hochschule und Weiterbildung sind es 3,5 bis 5,1 Prozent. | Was der Überblick als Herausforderung nennt, könnte das zuständige Kapitel in einem kurzen Abschnitt aufgreifen, mit Befund und Kennzahl. |
+| 4 | Frühere Schwerpunkte nachverfolgen | Jeder Bericht hat ein Schwerpunktthema. Zum demografischen Wandel, Schwerpunkt 2010, stehen in jenem Bericht 50 Sätze mit Handlungsbedarf, 2022 und 2024 je einer. Zur Digitalisierung, Schwerpunkt 2020, sind es 91, danach 23, 5 und 7. | Spätere Berichte könnten kurz darstellen, wie sich die Herausforderungen früherer Schwerpunkte entwickelt haben. |
+| 5 | Eine maschinenlesbare Fassung ergänzen | Die Tabellen stehen vorbildlich als Excel-Dateien bereit, der Text als PDF. Den Vorgänger einer Tabelle nennen die Inhaltsblätter seit 2022, mit 49 offenen Angaben. | Ergänzend zum PDF eine strukturierte Fassung, etwa als XML: Text nach Kapitel und Abschnitt, mit Verweis auf die zugehörige Tabelle und deren Vorgänger. Das würde weitere Auswertungen wie diese erleichtern. |
 
 <sub>Die Anregungen 1, 3 und 4 beruhen auf der Einordnung mit einem Wörterbuch und nutzen nur die robusten Befunde.</sub>
 
@@ -277,9 +280,9 @@ Der Bericht 2026 steht mit Ausnahme der Umschlagfotos unter der Lizenz Creative 
 
 ## Dank
 
-Ich danke dem DIPF | Leibniz-Institut für Bildungsforschung und Bildungsinformation, das die nationale Bildungsberichterstattung koordiniert, sowie der Autor:innengruppe Bildungsberichterstattung. Ihre Arbeit über 20 Jahre und die freie Bereitstellung der Berichte und Tabellen haben diese Analyse erst möglich gemacht.
+Ich danke dem DIPF | Leibniz-Institut für Bildungsforschung und Bildungsinformation, das die nationale Bildungsberichterstattung koordiniert, sowie der Autor:innengruppe Bildungsberichterstattung. Ihre sorgfältige Arbeit über 20 Jahre und die freie Bereitstellung der Berichte und Tabellen haben diese Analyse erst möglich gemacht.
 
-Die Auswertungen und ihre Deutung liegen allein in meiner Verantwortung. Sie geben nicht die Position des DIPF oder der Autor:innengruppe wieder.
+Die Auswertungen und ihre Deutung liegen allein in meiner Verantwortung. Hinweise auf Fehler und Rückmeldungen sind sehr willkommen. Sie geben nicht die Position des DIPF oder der Autor:innengruppe wieder.
 
 ## Lizenz
 
