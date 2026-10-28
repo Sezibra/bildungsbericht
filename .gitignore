@@ -25,3 +25,7 @@ venv/
 
 # Office-Sperrdateien
 ~$*
+
+# Sprachmodell (CC BY-NC-SA) und Excel-Dateien
+*.udpipe
+*.xlsx
