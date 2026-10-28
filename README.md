@@ -45,7 +45,7 @@ Alle drei Fragen sind beantwortet. Frage 2 hat zwei Teile: die wiederkehrenden H
 | Quelle | Umfang | Verwendung |
 |---|---|---|
 | Fließtext der elf Vollberichte, von der Einleitung bis vor das Literaturverzeichnis | 9.188 Absätze (9.125 im Topic Model), 41.314 Sätze mit mindestens fünf Wörtern | Themen, Einordnung der Sätze, wiederkehrende Herausforderungen |
-| Excel-Tabellen der elf Berichte von bildungsbericht.de | 452 Dateien, 4.891 Blätter, davon 4.397 Tabellen und 449 Abbildungen | Tabellenbestand, Fortschreibung, Abgleich mit dem Text |
+| Excel-Tabellen der elf Berichte von bildungsbericht.de | 452 Dateien, 4.891 Blätter, davon 4.397 Tabellen und 449 Abbildungen | Fortschreibung, Abgleich mit dem Text |
 
 Die Tabellen gehen nur über ihre Nummer, ihren Titel und die Inhaltsblätter ein. Die Werte in den Tabellen wertet die Analyse nicht aus, mit Ausnahme von sechs Leitindikatoren (Abbildung 16). Die Berichte und Tabellen sind auf [bildungsbericht.de](https://www.bildungsbericht.de) frei verfügbar. Dieses Repository enthält keine Texte, Tabellentitel oder Tabellen aus den Berichten, nur eigene Auswertungen.
 
@@ -58,7 +58,7 @@ Die Tabellen gehen nur über ihre Nummer, ihren Titel und die Inhaltsblätter ei
 | Sätze einordnen | Wörterbuch mit Signalwörtern: Beschreibung, Bewertung, Handlungsbedarf | 3 |
 | Herausforderungen finden | Themen, zu denen in mindestens 6 der 11 Berichte überdurchschnittlich oft Handlungsbedarf steht | 2 |
 | Robustheit | strenge Wortliste ohne Modalverben, Zählung nur in Kernkapiteln, Modell ohne Signalwörter | 2, 3 |
-| Tabellenbestand erfassen | alle Excel-Dateien laden, jedes Blatt als Tabelle, Abbildung oder Sonstiges einordnen, Inhaltsblatt und Blätter abgleichen | 2 |
+| Tabellen erfassen | alle Excel-Dateien laden, jedes Blatt als Tabelle, Abbildung oder Sonstiges einordnen, Inhaltsblatt und Blätter abgleichen | 2 |
 | Fortschreibung messen | Verweis auf die Nummer im Vorgängerbericht, den die Inhaltsblätter ab 2022 nennen | 2 |
 | Text und Tabellen abgleichen | Tabellen über Wörter im Titel den Herausforderungen zuordnen, Anteil im Text und in den Tabellen je Bericht vergleichen (Spearman) | 2 |
 | Leitindikatoren | je Herausforderung die längste Zeitreihe aus den Tabellen 2026, Zeile Deutschland insgesamt, ohne Vorausberechnungen | 2 |
@@ -126,20 +126,11 @@ Ein Thema gilt als wiederkehrend, wenn der Bericht dazu in mindestens 6 der 11 B
 - Zum demografischen Wandel benennt der Bericht 2010 noch 50 Sätze mit Handlungsbedarf, 2022 und 2024 je einen.
 - Zu Bildungsstand, Studienberechtigung, Bildungsausgaben und internationalem Vergleich benennt der Fließtext kaum Handlungsbedarf (Quote unter 3 Prozent).
 
-### Tabellenbestand: Wie viele Tabellen hat der Bericht, und wie viele werden fortgeschrieben?
-
-![Abbildung 12](figures/abb12_tabellenbestand.png)
-
-<sub>Tabellen je Bericht nach Form der Veröffentlichung: im Kapitel abgedruckt, im Tabellenanhang abgedruckt oder als Excel-Datei zum Bericht (Zusatz "web" in der Tabellennummer). Auf web-Tabellen verweist der Bericht im Text und unter den Abbildungen, abgedruckt sind sie nicht.</sub>
-
-Die Abbildung dient als Bezugsgröße für die folgenden Befunde. Weil der Bestand wächst, vergleicht die Analyse Anteile statt absoluter Zahlen.
-
-- Die Zahl der Tabellen steigt von 219 (2006) auf 527 (2026). Der Tabellenanhang umfasst bis 2018 rund 100 bis 165 Tabellen je Bericht. Ab 2020 gibt es keinen gedruckten Anhang mehr, die Daten stehen seitdem als web-Tabellen bereit.
-- Das Schwerpunktkapitel H umfasst je Bericht 15 bis 87 Tabellen, die Kernkapitel 188 (2006) bis 512 (2026).
+### Werden die Tabellen von Bericht zu Bericht fortgeschrieben?
 
 ![Abbildung 13](figures/abb13_fortschreibung.png)
 
-<sub>Grundlage: die Inhaltsblätter der Excel-Dateien, die ab 2022 für jede Tabelle ihre Nummer im Vorgängerbericht nennen. Nicht weitergeführt: Tabellen des Vorgängerberichts, auf die kein Verweis zeigt.</sub>
+<sub>Grundlage: die Inhaltsblätter der Excel-Dateien, die seit 2022 für jede Tabelle ihre Nummer im Vorgängerbericht nennen. Nicht weitergeführt: Tabellen des Vorgängerberichts, auf die kein Verweis zeigt.</sub>
 
 | Übergang | fortgeschrieben | neu | ohne Angabe | nicht weitergeführt |
 |---|---|---|---|---|
@@ -148,7 +139,7 @@ Die Abbildung dient als Bezugsgröße für die folgenden Befunde. Weil der Besta
 | 2024 zu 2026 | 230 | 290 | 7 | 241 |
 
 - Von den Tabellen mit Angabe schreibt jeder Bericht 44 bis 50 Prozent fort, die übrigen nimmt er neu auf. Neue Tabellen spiegeln häufig neue Fragestellungen und Datenquellen wider.
-- Die Kapitel B (Grundinformationen) und F (Hochschule) schreiben überwiegend fort. In D (Schule), G (Weiterbildung) und I überwiegen neu aufgenommene Tabellen, in D 2026 rund 80 neue gegenüber rund 20 fortgeschriebenen. Kapitel H behandelt in jedem Bericht ein neues Thema.
+- Die Kapitel B (Grundinformationen) und F (Hochschule) schreiben überwiegend fort. In D (Schule), G (Weiterbildung) und I überwiegen neu aufgenommene Tabellen.
 - Vor 2022 nennen die Inhaltsblätter keinen Vorgänger. Für diese Berichte lässt sich die Fortschreibung nicht messen.
 
 ### Frage 2, Teil 2: Gibt es zu den Herausforderungen passende Tabellen?
@@ -231,7 +222,7 @@ Die folgenden Anregungen verstehen sich als Angebot aus methodischer Sicht. Sie 
 | `notebooks/01_vorverarbeitung.ipynb` | Lemmatisierung, Vokabular, Dokument-Wort-Matrix |
 | `notebooks/02_stm_modell.ipynb` | Structural Topic Model mit 40 Themen, Frage 1, Abbildungen 1 bis 6 |
 | `notebooks/03_bewertung_handlungsbedarf.ipynb` | Einordnung der Sätze, Robustheit, Gegenprobe ohne Signalwörter, Frage 3 und erster Teil von Frage 2, Abbildungen 7 bis 11 |
-| `notebooks/04_tabellenbestand.ipynb` | Excel-Tabellen der Berichte laden, prüfen und bereinigen, Tabellenbestand und Fortschreibung, Abbildungen 12 und 13 |
+| `notebooks/04_tabellenbestand.ipynb` | Excel-Tabellen der Berichte laden, prüfen und bereinigen, Fortschreibung der Tabellen, Abbildungen 12 und 13 (Abbildung 12 nur im Notebook) |
 | `notebooks/05_indikatoren.ipynb` | Abgleich von Text und Tabellen, Leitindikatoren, zweiter Teil von Frage 2, Abbildungen 14 bis 16 |
 | `data/processed/` | Ergebnisse als Tabellen: Themen, Muster, Robustheit, Handlungsbedarf je Thema und Bericht, Zählungen der Tabellen, Fortschreibung, Abgleich, Leitindikatoren |
 | `figures/` | alle Abbildungen, unter `figures/social/` die Folien |
@@ -282,7 +273,7 @@ Der Bericht 2026 steht mit Ausnahme der Umschlagfotos unter der Lizenz Creative 
 
 Ich danke dem DIPF | Leibniz-Institut für Bildungsforschung und Bildungsinformation, das die nationale Bildungsberichterstattung koordiniert, sowie der Autor:innengruppe Bildungsberichterstattung. Ihre sorgfältige Arbeit über 20 Jahre und die freie Bereitstellung der Berichte und Tabellen haben diese Analyse erst möglich gemacht.
 
-Die Auswertungen und ihre Deutung liegen allein in meiner Verantwortung. Hinweise auf Fehler und Rückmeldungen sind sehr willkommen. Sie geben nicht die Position des DIPF oder der Autor:innengruppe wieder.
+Die Auswertungen und ihre Deutung liegen allein in meiner Verantwortung. Sie geben nicht die Position des DIPF oder der Autor:innengruppe wieder. Hinweise auf Fehler und Rückmeldungen sind sehr willkommen.
 
 ## Lizenz
 
