@@ -14,10 +14,9 @@ Bildungsbericht meets Computational Social Science
 </p>
 <p align="center">
   <img src="figures/social/folie_6.png" width="49%" alt="Befund 5: Rund die Hälfte der Tabellen wird in jedem Bericht neu aufgenommen">
-  <img src="figures/social/folie_7.png" width="49%" alt="Drei Anregungen für künftige Bildungsberichte">
 </p>
 
-<sub>Alle acht Folien als PDF: [figures/social/bildungsbericht_karussell.pdf](figures/social/bildungsbericht_karussell.pdf)</sub>
+<sub>Alle sieben Folien als PDF: [figures/social/bildungsbericht_karussell.pdf](figures/social/bildungsbericht_karussell.pdf)</sub>
 
 Die nationalen Bildungsberichte "Bildung in Deutschland" haben großen Einfluss auf die Bildungspolitik und greifen seit 2006 in gleichbleibender Struktur die Themen des Bildungswesens auf. Damit bilden sie einen sehr gut geeigneten Datensatz, um Methoden der Computational Social Science anzuwenden. Dieses Projekt ist in diesem Sinne entstanden: als methodische Übung an einem Material, dessen inhaltliche Einordnung bei den Fachleuten der Bildungsforschung liegt.
 
@@ -200,20 +199,6 @@ Für Steuerung, soziale Herkunft und Programme und Qualitätssicherung findet di
 - **Leitindikatoren gerundet.** Die Werte in Abbildung 16 und in der Tabelle oben sind gerundet. Die genauen Werte stehen in `data/processed/leitindikatoren.csv`.
 - **Sprünge in der Gliederung.** Einige Rückgänge treten als Sprung zwischen zwei Berichten auf, etwa Schularten 2022. Sie können auf eine geänderte Gliederung zurückgehen statt auf eine geringere Bedeutung des Themas.
 - **Blick von außen.** Die Analyse kennt die Abwägungen nicht, die hinter Gliederung, Themenwahl und Tabellenauswahl der Berichte stehen. Viele Befunde haben vermutlich gute fachliche Gründe.
-
-## Anregungen für die Berichterstattung
-
-Die folgenden Anregungen verstehen sich als Angebot aus methodischer Sicht. Sie betreffen die Form der Berichterstattung, nicht die Bildungspolitik, und beruhen jeweils auf einem der Befunde oben. Ob und wie sie sich umsetzen lassen, können die Autor:innengruppe und die beteiligten Institute am besten beurteilen.
-
-| Nr. | Anregung | Befund | Vorschlag |
-|---|---|---|---|
-| 1 | Ein Register der Herausforderungen | Fünf Herausforderungen benennt der Bericht seit 2006 wiederholt, etwa Lehrkräfte oder soziale Herkunft. Ihre Entwicklung über mehrere Berichte ist derzeit nicht an einer Stelle zusammengefasst. | Eine feste Übersicht in jedem Bericht: Seit wann wird die Herausforderung genannt? An welcher Kennzahl lässt sie sich ablesen? Wie hat sich diese seit dem letzten Bericht entwickelt? Wo keine Kennzahl vorliegt, wie bei Steuerung, kann die Übersicht das vermerken. |
-| 2 | Einen festen Kern von Tabellen fortschreiben | Rund die Hälfte der Tabellen wird in jedem Bericht neu aufgenommen. Von den 468 Tabellen des Berichts 2024 führt der Bericht 2026 241 nicht weiter. Das erleichtert neue Fragestellungen, erschwert aber Vergleiche über längere Zeiträume. | Je Kapitel ein fester Kern von Tabellen, den jeder Bericht in gleicher Form fortschreibt, ergänzt um neue Tabellen nach Bedarf. Eine kurze Übersicht der Änderungen hilft Lesenden bei der Orientierung. |
-| 3 | Herausforderungen in den Fachkapiteln aufgreifen | Der Anteil an Handlungsbedarf ist im Überblick (bis zu 13,2 Prozent der Sätze) und in der Einleitung (bis zu 16,3 Prozent) am höchsten. In den Kapiteln zu Kita, Schule, Ausbildung, Hochschule und Weiterbildung sind es 3,5 bis 5,1 Prozent. | Was der Überblick als Herausforderung nennt, könnte das zuständige Kapitel in einem kurzen Abschnitt aufgreifen, mit Befund und Kennzahl. |
-| 4 | Frühere Schwerpunkte nachverfolgen | Jeder Bericht hat ein Schwerpunktthema. Zum demografischen Wandel, Schwerpunkt 2010, stehen in jenem Bericht 50 Sätze mit Handlungsbedarf, 2022 und 2024 je einer. Zur Digitalisierung, Schwerpunkt 2020, sind es 91, danach 23, 5 und 7. | Spätere Berichte könnten kurz darstellen, wie sich die Herausforderungen früherer Schwerpunkte entwickelt haben. |
-| 5 | Eine maschinenlesbare Fassung ergänzen | Die Tabellen stehen vorbildlich als Excel-Dateien bereit, der Text als PDF. Den Vorgänger einer Tabelle nennen die Inhaltsblätter seit 2022, mit 49 offenen Angaben. | Ergänzend zum PDF eine strukturierte Fassung, etwa als XML: Text nach Kapitel und Abschnitt, mit Verweis auf die zugehörige Tabelle und deren Vorgänger. Das würde weitere Auswertungen wie diese erleichtern. |
-
-<sub>Die Anregungen 1, 3 und 4 beruhen auf der Einordnung mit einem Wörterbuch und nutzen nur die robusten Befunde.</sub>
 
 ## Inhalt des Repositorys
 
