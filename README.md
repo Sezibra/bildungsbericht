@@ -1,4 +1,6 @@
-# Bildung in Deutschland 2006 bis 2026: Was 20 Jahre Bildungsbericht sagen
+# 20 Jahre Bildungsbericht: Themen, Handlungsbedarf und Tabellen im Wandel
+
+Bildungsbericht meets Computational Social Science
 
 **20 Jahre Bildungsbericht in fünf Befunden:** Der Bericht ist überwiegend beschreibend angelegt. Seine Themen verschieben sich von Strukturen zu Lebenslagen. Fünf Herausforderungen benennt er seit 2006 wiederholt. Zur häufigsten, der Steuerung des Bildungssystems, gibt es bisher keine Tabelle mit passendem Titel. Von Bericht zu Bericht wird rund die Hälfte der Tabellen neu aufgenommen.
 
